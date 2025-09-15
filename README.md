@@ -68,8 +68,8 @@ Tantangan utama pada dataset adalah **imbalance class** (mayoritas tidak melakuk
 
 ### Deliverables
 
-* \[Interactive App with Streamlit](https://travel-insurance-model-wcxsbxbd7vakhjepuvtmqc.streamlit.app/)
-* \[Presentation Link] 
+* [Interactive App with Streamlit](https://travel-insurance-model-wcxsbxbd7vakhjepuvtmqc.streamlit.app/)
+* [Presentation Link](https://drive.google.com/file/d/1YHSeYRKI8pb0mc559wz5Qubp9raXtaGN/view?usp=sharing)
 
 ---
 
